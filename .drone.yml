@@ -12,4 +12,4 @@ steps:
         from_secret: docker_password
     when:
       branch:
-      - master
+      - master
